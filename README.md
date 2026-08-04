@@ -1,2 +1,1 @@
-## Portfolio
-https://samyul173.github.io/portfolio_samyul_gurung_web_designing_ncmt/
+Samyul Gurung(BCS) Web Designing: Assignment and Portfolio
