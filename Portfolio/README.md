@@ -1,2 +1,2 @@
 MY PROTFOLIO 
-Link : https://samyul173.github.io/Portfolio/
+Link : https://github.com/SAMYUL173/Portfolio
